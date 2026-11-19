@@ -2,7 +2,9 @@
 name = "bel-sekolah-pintar"
 version = "0.1.0"
 description = "Bel Sekolah Pintar - penjadwal bel sekolah otomatis"
-authors = ["you"]
+authors = ["maulana-ibrahim"]
+license = "MIT"
+repository = "https://github.com/maulana-ibrahim/bel-sekolah-pintar"
 edition = "2024"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
