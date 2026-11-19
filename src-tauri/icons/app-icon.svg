@@ -1,0 +1,9 @@
+<!-- Source of every app icon size. Regenerate with: pnpm tauri icon src-tauri/icons/app-icon.svg
+     Same mark as the sidebar logo: ink bell (Lucide "bell") on a sun-yellow tile. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <rect x="32" y="32" width="960" height="960" rx="220" fill="#ffc53d"/>
+  <g transform="translate(212 212) scale(25)" fill="none" stroke="#1b2142" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/>
+    <path d="M10.3 21a1.94 1.94 0 0 0 3.4 0"/>
+  </g>
+</svg>
